@@ -1,7 +1,7 @@
 # Inventory Dashboard: A Full-Stack Management System
 
 <p align="center">
-  <img src="https://placehold.co/1200x600/1e293b/94a3b8?text=Inventory+Dashboard+Screenshot" alt="A screenshot of the Inventory Dashboard showing the main table and add product form."/>
+  
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@ Welcome to the Inventory Dashboard! This is a comprehensive, full-stack applicat
 
 Whether you're tracking stock for a small business or learning full-stack development, this project provides all the essential features in a clean, professional, and highly responsive interface.
 
-**[➡️ Live Demo Link (Add Your Deployed URL Here)](#)**
+https://inventory-management-system-h59lub4rd-aarya-rais-projects.vercel.app/
 
 ---
 
