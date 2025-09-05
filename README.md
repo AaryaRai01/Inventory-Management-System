@@ -1,6 +1,12 @@
 # Inventory Dashboard: A Full-Stack Management System
 
 <p align="center">
+
+
+
+https://github.com/user-attachments/assets/1498f80d-5bd6-48a0-8d14-36b06fb4f16e
+
+
   
 </p>
 
