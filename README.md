@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/1498f80d-5bd6-48a0-8d14-36b06fb4f16e
 
 ## 📖 Overview
 
-Welcome to the Inventory Dashboard! This is a comprehensive, full-stack application designed to provide a seamless and intuitive experience for managing product inventory. Built for a GitHub community project, it serves as a robust example of modern web development practices, integrating a powerful frontend with a scalable backend.
+Welcome to the Inventory Dashboard! This is a comprehensive, full-stack application designed to provide a seamless and intuitive experience for managing product inventory. It serves as a robust example of modern web development practices, integrating a powerful frontend with a scalable backend.
 
 Whether you're tracking stock for a small business or learning full-stack development, this project provides all the essential features in a clean, professional, and highly responsive interface.
 
